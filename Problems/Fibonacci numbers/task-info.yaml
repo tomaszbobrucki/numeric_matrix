@@ -1,0 +1,14 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: "def fib(n):\n\n    if ...:    # base case n=0\n        return \n    elif\
+    \ ...:  # base case n=1\n        return \n    else:      # case n>1\n        return"
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7672
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7672">JetBrains
+    Academy</a></html>
+  time: Wed, 11 Nov 2020 23:52:34 UTC
+record: -1
